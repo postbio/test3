@@ -1,0 +1,38 @@
+body, html {
+    margin: 0;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f0f0f0;
+}
+
+#kaleidoscope {
+    width: 300px;
+    height: 300px;
+    border: 2px solid #000;
+}
+
+/* Example designs (placeholders for actual designs) */
+.design-1 {
+    background-color: red;
+    /* Additional styling for design 1 */
+}
+
+.design-2 {
+    background-color: blue;
+    /* Additional styling for design 2 */
+}
+
+/* ... more designs ... */
+
+.design-10 {
+    background-color: green;
+    /* Additional styling for design 10 */
+}
+
+.button-container {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+}
